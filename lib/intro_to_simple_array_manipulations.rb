@@ -18,8 +18,8 @@ def pop_with_args(array)
 end
 
 
-def using_unshift(array)
-  array.unshift
+def using_unshift(array, str)
+  array.unshift(str)
 end
 
 
