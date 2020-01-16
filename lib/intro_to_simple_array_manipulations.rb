@@ -19,7 +19,7 @@ end
 
 
 def using_unshift(array)
-  array.shift
+  array.unshift
 end
 
 
